@@ -8,7 +8,7 @@ namespace sample.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-
+   //thisia a employeeRepo
     public class EmployeeController : ControllerBase
     {
 
