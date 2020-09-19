@@ -1,7 +1,7 @@
 # dotnetCoreAPI_Dapper
 API CRUD functionality using dapper as ORM
 
-# to get propertiess of the model
+# To get propertiess of the model
    private IEnumerable<PropertyInfo> GetProperties => typeof(T).GetProperties();
 
         private static List<string> GenerateListOfProperties(IEnumerable<PropertyInfo> listOfProperties)
