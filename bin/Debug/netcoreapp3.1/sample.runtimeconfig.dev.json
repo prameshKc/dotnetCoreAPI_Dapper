@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kriti\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kriti\\.nuget\\packages"
+    ]
+  }
+}
