@@ -9,6 +9,7 @@ namespace sample.Controllers
     [ApiController]
     [Route("[controller]")]
    //thisia a employeeRepo
+   //comment by pramesh kc
     public class EmployeeController : ControllerBase
     {
 
